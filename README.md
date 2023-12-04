@@ -13,7 +13,7 @@
 <tr>
   <td align="center" width="20%">
   <span><b><center>Java</center></b></span> 
-  <img height=65px src="https://icons8.com/icon/Pd2x9GWu9ovX/java"> 
+  <img height=65px src="https://icons8.com/icon/Pd2x9GWu9ovX/java.png"> 
   </td>
   
   <td align="center" width="20%">
@@ -36,12 +36,12 @@
 
   <td align="center" width="20%">
   <span><b><center>Django</center></b></span> 
-  <img height=60px src="https://icons8.com/icon/mUBILbYvUMq8/django"> 
+  <img height=60px src="https://icons8.com/icon/mUBILbYvUMq8/django.png"> 
   </td>
 
   <td align="center" width="20%">
   <span><b><center>Spring</center></b></span> 
-  <img height=60px src="https://icons8.com/icon/2oBx9FpXcbLa/spring-boot"> 
+  <img height=60px src="https://icons8.com/icon/2oBx9FpXcbLa/spring-boot.png"> 
   </td>
   
 </tr>  
@@ -49,12 +49,12 @@
 <tr>
   <td align="center" width="20%">
   <span><b><center>PyTorch</center></b></span> 
-  <img height=65px src="https://icons8.com/icon/jH4BpkMnRrU5/pytorch"> 
+  <img height=65px src="https://icons8.com/icon/jH4BpkMnRrU5/pytorch.png"> 
   </td>
   
   <td align="center" width="20%">
   <span><b><center>TensorFlow</center></b></span> 
-  <img height=60px src="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow"> 
+  <img height=60px src="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow.png"> 
   </td>
   
 
@@ -80,7 +80,7 @@
 
   <td align="center" width="20%">
   <span><b><center>Docker</center></b></span> 
-  <img height=65px src="https://icons8.com/icon/22813/docker"> 
+  <img height=65px src="https://icons8.com/icon/22813/docker.png"> 
   </td>
   
 
