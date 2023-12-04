@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hi there 👋 <br/> </h2> 
 
-<p align="center"> <samp>Hi, My name is Frank Liang. I'm an undergraduate student at Washington University in St. Louis, majoring in CS and stats. In my repos, you'll find interesting projects related to Full-stack Development, Deep Learning, Mobile Apps, and interactive visualizations.
+<p align="center"> <samp>Hi, My name is Frank Liang. I'm an undergraduate student at Washington University in St. Louis, majoring in CS and Statistics. In my repos, you'll find interesting projects related to Full-stack Development, Deep Learning, Mobile Apps, Data Science and Interactive Visualizations.
   
   
 ## Tech Stack :computer:
