@@ -13,17 +13,16 @@
 <tr>
   <td align="center" width="20%">
   <span><b><center>Java</center></b></span> 
-  <img height=65px src="https://icons8.com/icon/Pd2x9GWu9ovX/java.png"> 
+
   </td>
   
   <td align="center" width="20%">
   <span><b><center>Python</center></b></span> 
-  <img height=65px src="https://img.icons8.com/color/2x/python.png"> 
   </td>
   
   <td align="center" width="20%">
   <span><b><center>C++</center></b></span> 
-  <img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+
   </td>
 
 </tr>
@@ -31,17 +30,17 @@
 <tr>
   <td align="center" width="20%">
   <span><b><center>ReactJS</center></b></span> 
-  <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+
   </td>
 
   <td align="center" width="20%">
   <span><b><center>Django</center></b></span> 
-  <img height=60px src="https://icons8.com/icon/mUBILbYvUMq8/django.png"> 
+
   </td>
 
   <td align="center" width="20%">
   <span><b><center>Spring</center></b></span> 
-  <img height=60px src="https://icons8.com/icon/2oBx9FpXcbLa/spring-boot.png"> 
+  
   </td>
   
 </tr>  
@@ -49,18 +48,18 @@
 <tr>
   <td align="center" width="20%">
   <span><b><center>PyTorch</center></b></span> 
-  <img height=65px src="https://icons8.com/icon/jH4BpkMnRrU5/pytorch.png"> 
+
   </td>
   
   <td align="center" width="20%">
   <span><b><center>TensorFlow</center></b></span> 
-  <img height=60px src="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow.png"> 
+
   </td>
   
 
   <td align="center" width="20%">
   <span><b><center>SQL</center></b></span> 
-  <img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+ 
   </td>
   
 
@@ -69,19 +68,18 @@
 <tr>
   <td align="center" width="20%">
   <span><b><center>JavaScript</center></b></span> 
-  <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+  
   </td>
   
   <td align="center" width="20%">
   <span><b><center>Swift</center></b></span> 
-  <img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+  
   </td>
   
 
   <td align="center" width="20%">
-  <span><b><center>Docker</center></b></span> 
-  <img height=65px src="![image](https://github.com/NingyueLiang/NingyueLiang/assets/71284395/954c176a-2d06-44eb-82a5-b7b5fb8f7459)
-"> 
+  <span><b><center>Golang</center></b></span> 
+  
   </td>
   
 
@@ -90,17 +88,17 @@
 <tr>
   <td align="center" width="20%">
   <span><b><center>Git</center></b></span> 
-  <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+  
   </td>
   
   <td align="center" width="20%">
-  <span><b><center>HTML</center></b></span> 
-  <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+  <span><b><center>Linux</center></b></span> 
+
   </td>
 
   <td align="center" width="20%">
-  <span><b><center>NodeJS</center></b></span> 
-  <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+  <span><b><center>Docker</center></b></span> 
+
   </td>
 
 </tr>
