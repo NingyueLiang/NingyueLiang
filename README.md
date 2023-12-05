@@ -107,6 +107,13 @@
 </table>
 
 <br />
+## Papers
+[One for All: Towards Training One Graph Model for All Classification Tasks](https://arxiv.org/abs/2310.00149)
+Hao Liu, Jiarui Feng, Lecheng Kong, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang
+Preprint, 2023
+
+<br />
+## Linkedin
 <p align="left">
 <a href="https://www.linkedin.com/in/ningyue-liang-frank/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
