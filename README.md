@@ -108,7 +108,7 @@
 
 <br />
 
-## Papers
+## Research
 [One for All: Towards Training One Graph Model for All Classification Tasks](https://arxiv.org/abs/2310.00149) \
 Hao Liu, Jiarui Feng, Lecheng Kong, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang \
 Preprint, 2023
