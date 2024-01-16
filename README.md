@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hi there 👋 <br/> </h2> 
 
-<p align="center"> <samp> My name is Ningyue(Frank) Liang. I'm an undergraduate at Washington University in St. Louis, majoring in CS and Statistics. In my repos, you'll find interesting projects related to Full-stack Development, Machine & Deep Learning, Mobile Apps, Data Science and Interactive Visualizations.
+<p align="center"> <samp> My name is Ningyue(Frank) Liang. I'm an undergraduate at Washington University in St. Louis, majoring in CS and Statistics. In my repos, you'll find interesting projects related to Full-stack Development, Machine & Deep Learning, Mobile Apps, Data Science, and Interactive Visualizations.
   
   
 ## Tech Stack :computer:
@@ -110,7 +110,7 @@
 ## Research
 [One for All: Towards Training One Graph Model for All Classification Tasks](https://arxiv.org/abs/2310.00149) \
 Hao Liu, Jiarui Feng, Lecheng Kong, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang \
-Preprint, 2023
+ICLR spotlight (top 5%), 2024 
 
 ## Personal Website
 [Here!](https://ningyueliang.github.io/)
