@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hi there 👋 <br/> </h2> 
 
-<p align="center"> <samp> My name is Ningyue(Frank) Liang. I'm an undergraduate at Washington University in St. Louis, majoring in CS and Statistics (Incoming 2024 Master in CSE at Harvard University). In my repos, you'll find interesting projects related to Full-stack Development, Machine & Deep Learning, Mobile Apps, Data Science, and Interactive Visualizations.
+<p align="center"> <samp> My name is Ningyue(Frank) Liang. I'm a master's candidate in CSE at Harvard University. I graduated from Washington University in St. Louis as a valedictorian with double majors in Computer Science and Statistics. In my repos, you'll find interesting projects related to Full-stack Development, Machine & Deep Learning, Mobile Apps, Data Science, and Interactive Visualizations.
   
   
 ## Tech Stack :computer:
